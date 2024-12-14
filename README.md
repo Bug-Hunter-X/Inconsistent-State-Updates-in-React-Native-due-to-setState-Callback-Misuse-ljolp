@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native state management and its solution. The `bug.js` file showcases incorrect usage of the `setState` callback, resulting in unpredictable state updates. The `bugSolution.js` file demonstrates the correct usage to ensure consistent and accurate state updates.
